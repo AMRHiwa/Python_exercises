@@ -15,3 +15,17 @@
 
 در بخش زیر می‌توانید به سوالات بخش اول دسترسی داشته باشید.
 <h4 id='part_one_1'>سوال اول: متوازی اضلاع </h4>
+
+__برنامه‌ای بنویسید که با گرفتن قاعده و ارتفاع متوازی‌اضلاع از کاربر، مساحت آن را محاسبه و هرچه زیباتر نمایش دهد.__
+
+(راهنمایی: مساحت متوازی‌اضلاع برابر است با قاعده x ارتفاع)
+
+
+ <img src="https://bartaramouz.ir/wp-content/uploads/2023/02/%D9%85%D8%B3%D8%A6%D9%84%D9%87-%D9%85%D8%B3%D8%A7%D8%AD%D8%AA-%D9%85%D8%AA%D9%88%D8%A7%D8%B2%DB%8C-%D8%A7%D9%84%D8%A7%D8%B6%D9%84%D8%A7%D8%B9-%D8%A8%D8%B1%D8%AA%D8%B1-%D8%A2%D9%85%D9%88%D8%B2.png" alt="Girl in a jacket" width="400" height="300"> 
+
+ <h4 id='part_one_2'>سوال دوم: استوانه </h4>
+
+__برنامه‌ای بنویسید که با گرفتن شعاع و ارتفاع استوانه‌ای را خوانده و حجم و مساحت کل آن را محاسبه و هرچه زیباتر نمایش دهد.__
+
+ <img src="https://rayad.org/wp-content/uploads/2020/07/7-min-7.jpg" alt="Girl in a jacket" width="400" height="300"> <img src="https://rayad.org/wp-content/uploads/2020/07/%D8%AA%D8%B5%D9%88%DB%8C%D8%B1-%D8%B4%D8%A7%D8%AE%D8%B5-%D8%A7%D8%B3%D8%AA%D9%88%D8%A7%D9%86%D9%87-min1.jpg" alt="Girl in a jacket" width="400" height="300"> 
+
