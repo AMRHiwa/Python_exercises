@@ -88,4 +88,4 @@ $\`` y = \frac{1}{ x^2 + x + 1} `$`.
 
 __برنامه‌ای بنویسید که با گرفتن مقدار مقاومت های R1, R2, R3 از کاربر فرمول زیر را  محاسبه و هرچه زیباتر نمایش دهد.__
 
-$\`` R = \frac {R2 \times R3 + R1 \times R3 + R1 \times R2}{R1 \times R2 \times R3} `$`.
+$` R = \frac {R2 \times R3 + R1 \times R3 + R1 \times R2}{R1 \times R2 \times R3} `$
